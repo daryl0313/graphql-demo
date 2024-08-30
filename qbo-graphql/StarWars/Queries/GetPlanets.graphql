@@ -1,0 +1,8 @@
+query GetPlanets {
+	allPlanets {
+		totalCount
+		planets {
+			name
+		}
+	}
+}

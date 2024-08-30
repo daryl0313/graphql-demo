@@ -1,0 +1,12 @@
+{
+  "projects": [
+    {
+      "schema": [
+        "qbo-graphql/StarWars/schema.graphql"
+      ],
+      "documents": [
+        "qbo-graphql/StarWars/**/*.graphql"
+      ]
+    }
+  ]
+}

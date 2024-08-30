@@ -1,0 +1,8 @@
+﻿query GetFilms {
+	allFilms {
+		totalCount
+		films {
+			title
+		}
+	}
+}
